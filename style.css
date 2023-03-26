@@ -49,7 +49,7 @@ nav{
 }
 
 
-/* Image Left */
+/* Main Image Left */
 .leftContainer .leftImage{
     position: absolute;
     top: 0;
@@ -58,35 +58,13 @@ nav{
     object-fit: cover;
 }
 
-
 .leftImage img{
     width: 35vw;
     top: 0;
     left: 0;
 }
 
-
-
-/* .leftContainer .leftImage {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 35vw;
-    z-index: -1;
-}
-.leftContainer .leftImage img {
-    position: absolute;
-    width: 100%;
-    top: 0;
-    height: 100%;
-    object-fit: cover;
-    left: 0;
-    bottom: 0;
-} */
-
-
-
+/* White Logo Inverted */
 .logo{
     filter: invert(1);
 }
@@ -98,3 +76,5 @@ nav{
 .quoteImage img{
     width: 200px;
 }
+
+
