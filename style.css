@@ -17,9 +17,9 @@ nav{
 
 .navItems{
     display: flex;
+    height: 100px;
     align-items: center;
     justify-content: space-around;
-    margin-top: 50px;
 }
 
 .menuItems{
@@ -50,6 +50,23 @@ nav{
 
 
 /* Image Left */
+.leftContainer .leftImage{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    object-fit: cover;
+}
+
+
+.leftImage img{
+    width: 35vw;
+    top: 0;
+    left: 0;
+}
+
+
+
 /* .leftContainer .leftImage {
     position: absolute;
     top: 0;
@@ -76,11 +93,6 @@ nav{
 
 .logo img{
     width: 80px;
-}
-
-
-.leftImage img{
-    width: 200px;
 }
 
 .quoteImage img{
