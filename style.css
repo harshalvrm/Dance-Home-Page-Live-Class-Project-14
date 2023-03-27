@@ -89,10 +89,15 @@ nav{
 .rightContainerUpper{
     position: relative;
     display: flex;
-    width: 800px;
+    width: 50%;
     justify-content: space-around;
-    left: 350px;
+    left: 550px;
 
+}
+
+.firstHead{
+    position: relative;
+    left: -100px;    
 }
 
 .Desc_Social{
@@ -100,7 +105,14 @@ nav{
     height: 200px;
 }
 
-.heading{
+.DescHead{
+    position: relative;
+    top: 220px;
+    left: -100px;
+    color:#5c5b5b;
+    font-family:"Merriweather";
+    font-size: 1.2rem;
+    font-weight: 200;
     
 }
 
@@ -135,8 +147,3 @@ nav{
     font-weight: 900;
 }
 
-.DescHead{
-    color:#5c5b5b;
-    font-family: "Merriweather";
-    font-size: 1rem;
-}
