@@ -121,10 +121,17 @@ nav{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    gap: 50px;
+}
+
+.socialIcons{
+    position: relative;
+    top: 50px;
+    
 }
 
 .socialIcons img{
-    width: 15px;
+    width: 20px;
 }
 
 /* Creative Text */
