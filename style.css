@@ -191,7 +191,9 @@ nav{
 }
 
 .LowerLeft{
-    padding: 0px;
+    margin-right: 60px;
+    margin-left: -50px;
+
 }
 
 .services{
@@ -204,11 +206,41 @@ nav{
 
 .hrline{
     position: absolute;
-    left: 209px;
-    width: 15%;
-    top: 120px;
+    left: 73px;
+    top: 140px;
+    margin: 20px 0 0 150px ;
+    width: 20%;
     border-radius: 40px;
     height: 2px;
     background-color: #333333;
     rotate: 90deg;
+    z-index: -1;
+}
+
+.lowerRight{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.quoteIcon{
+    margin: 0 350px 20px 0;
+    font-size: 40px;
+    color: #333333;
+}
+
+.quotes{
+    width: 350px;
+    margin-top: -20px;
+    margin-right: 20px;
+    font-size: 15px;
+    padding: 20px 0px;
+    color: #5c5b5b;
+}
+
+.quoteImage img{
+    position: absolute;
+    width: 30%;
+    object-fit: fill;
+    left: 580px;
 }
