@@ -51,6 +51,7 @@ nav{
 }
 
 
+
 /* Main Image Left */
 .leftContainer .leftImage{
     position: absolute;
@@ -179,6 +180,35 @@ nav{
 .checkPackage:hover{
     background-color: #666666;
     transition: 400ms;
-    
 }
 
+/* Lower Section */
+.rightContainerLower{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 200px;
+}
+
+.LowerLeft{
+    padding: 0px;
+}
+
+.services{
+    margin: 10px 0;
+    color:#666666;
+    font-family: "Poppins";
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+.hrline{
+    position: absolute;
+    left: 209px;
+    width: 15%;
+    top: 120px;
+    border-radius: 40px;
+    height: 2px;
+    background-color: #333333;
+    rotate: 90deg;
+}
