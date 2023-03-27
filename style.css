@@ -154,3 +154,31 @@ nav{
     font-weight: 900;
 }
 
+/* button */
+.packages{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    left: 380px;
+    font-size: 20px; 
+    font-weight: 300;  
+    
+}
+
+.checkPackage{
+    /* padding: 20px; */
+    box-sizing: border-box;
+    width: 250px;
+    height: 50px;
+    border: none ;
+    background-color: #333333;
+    color: #fff;
+    cursor: pointer;
+}
+
+.checkPackage:hover{
+    background-color: #666666;
+    transition: 400ms;
+    
+}
+
