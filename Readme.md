@@ -3,12 +3,12 @@
 ---
 
 ## Description
-This is a landing page designed for a SAAS based business firm in pure HTML and CSS. The overall design consists of 3 sections. The entire webpage is divided into multiple segments which are the navigation bar, intro section, features section and cards section. All the buttons are designed along with animations.
+This is a landing page designed for a Dance Home Page in pure HTML and CSS. The overall design consists of 3 sections. The entire webpage is divided into multiple segments which are the navigation bar, hero section, and bottom section that includes services and a quote.
 <br>
 
-Most of the alignment with the elements was done using `Flexbox` and its various properties. In total, I gave `8-9 hours` to build this entire website. In the beginning, I spent a lot of time writing HTML segments where I declared all of the crucial components like the navbar, intro section, card sections, creative team, button designing, footer, and all of their images, and icons. Selecting the correct icons, images, and their size according to the color scheme was one of the challenging tasks for me. Eventually, I spent most of my time designing and maintaining the responsiveness of each object for multiple screen sizes. In this webpage, the responsive breakpoints are at `1024px`, `768px`, and `576px`.
+This project involves a heavy positioning and alignment of the images, lines and texts. The initial challenge was to design a hollow shape text in the hero section. To design that, I use `text-shadow` property while maintaining the color and playing with shadows to design the hollow effect while making the internal part transparent.In total, I gave `4-5 hours` to build this entire website. 
 <br>
-The image property was an important element that I learned in this project. Correct cropping and aligning of images were necessary for this webpage. This particular project has trained me more on `Flexbox`, `media queries, `images`, and properties along with designing aspects.
+The image property was an important element that I learned in this project. Correct cropping and aligning of images were necessary for this webpage. This particular project has trained me more on `Positionin', 'z-index', 'image properties', 'filter property', 'text shadow', and to create stepper using list item & div (By using relative & absolute).
 
 <br>
 
@@ -18,25 +18,22 @@ The image property was an important element that I learned in this project. Corr
 ## About The Project
 <br>
 
-![project 14](./ScreenShot/gif.gif)
+![project 14](./Assets/Screenshots/1024_01.png)
 
 
-Here's a Screen-Shot of my 14th project along with the responsive snippets.
+Here's a Screen-Shot of my 14th project.
 <div style="text-align: center;">
 
 <br>
 
-![Responsive](./Screenshot/Home01_576px.png)
+![Code Snippet](./Assets/Screenshots/Code-01.png)
 <br>
 
 
-![Responsive](./Screenshot/Home02_576px.png)
+![Code Snippet](/./Assets/Screenshots/Code-02.png)
 <br>
 
-![Responsive](./Screenshot/Home01_768px.png)
-<br>
-
-![Responsive](./Screenshot/Home02_768px.png)
+![Code Snippet](./Assets/Screenshots/Code-03.png)
 <br>
 
 
@@ -82,11 +79,9 @@ This project is presently deployed in **`Netlify Service`**.
 
 ## Learnt
 In This project I learnt the following properties of HTML and CSS.
-- In depth learning of Responsive designs.
-- Image positioning properties
-- Flexbox and its Properties. 
-- Media Queries.
-
+- In depth learning of Positioning and alignments.
+- Image positioning properties.
+- Text Shadow properties 
 
 <br>
 <!-- CONTACT -->
@@ -95,6 +90,7 @@ In This project I learnt the following properties of HTML and CSS.
 
 - **Name 👨‍💻:** [Harshal Verma](https://github.com/harshalvrm)
 - **Email 📧:** [harshalvrm3@gmail.com](mailto:harshalvrm3@gmail.com)
+- **Phone 📞:**  [+91 88199-13550](tel:88199-13550) 
 - **Linkedln 📝:** [Click Here](https://www.linkedin.com/in/harshalvrm3/)
 - **Blog 📝:** [Hashnode blog](https://xadai.hashnode.dev/)
 
